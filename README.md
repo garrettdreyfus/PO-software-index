@@ -8,7 +8,7 @@ Make sure to include the name of the project, a link to where it is available, a
 ## Python
 ### Eddy Tracking
 - [py-eddy-tracker](https://github.com/AntSimi/py-eddy-tracker)
-  - [Pegliasco, C., Delepoulle, A., Morrow, R., Faugère, Y., and Dibarboure, G.: META3.1exp : A new Global Mesoscale Eddy Trajectories Atlas derived from altimetry, Earth Syst. Sci. Data Discuss.](https://doi.org/10.5194/essd-14-1087-2022)
+  - [Pegliasco et al. 2022](https://doi.org/10.5194/essd-14-1087-2022)
 ### Thermodynamic properties
 - [GSW-python](https://github.com/TEOS-10/GSW-Python)
 ### Neutral Surfaces
