@@ -9,14 +9,14 @@ Make sure to include the name of the project, a link to where it is available, a
 ### Eddy Tracking
 - [py-eddy-tracker](https://github.com/AntSimi/py-eddy-tracker)
   - [Pegliasco et al. 2022](https://doi.org/10.5194/essd-14-1087-2022)
-### Thermodynamic properties
-- [GSW-python](https://github.com/TEOS-10/GSW-Python)
-### Neutral Surfaces
-- [neutral-ocean](https://github.com/geoffstanley/neutralocean)
-  - [Stanley et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002436)
 ### Ice shelf melt parameterizations
 - [multi-melt](https://github.com/ClimateClara/multimelt)
   - [Burgard et al. 2022](https://doi.org/10.5194/tc-16-4931-2022)
+### Neutral Surfaces
+- [neutral-ocean](https://github.com/geoffstanley/neutralocean)
+  - [Stanley et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002436)
+### Thermodynamic properties
+- [GSW-python](https://github.com/TEOS-10/GSW-Python)
 
 ## Julia
 ### Eddy Tracking
@@ -24,6 +24,8 @@ Make sure to include the name of the project, a link to where it is available, a
 
 ## MATLAB
 ### Eddy Tracking
+- [AMEDA](https://github.com/briaclevu/AMEDA)
+  - [Le Vu et al. 2018](https://doi.org/10.1175/JTECH-D-17-0010.1)
 ### Thermodynamic properties
 
 
