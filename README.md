@@ -15,6 +15,9 @@ Make sure to include the name of the project, a link to where it is available, a
 ### Neutral Surfaces
 - [neutral-ocean](https://github.com/geoffstanley/neutralocean)
   - [Stanley et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002436)
+### Spatial Filtering
+- [GCM-Filters](https://github.com/ocean-eddy-cpt/gcm-filters)
+  - [Grooms et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002552) 
 ### Thermodynamic properties
 - [GSW-python](https://github.com/TEOS-10/GSW-Python)
 
